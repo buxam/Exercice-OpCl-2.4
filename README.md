@@ -2,3 +2,5 @@
 Exercice de Gérer votre code avec Git et GitHub sur OpenClassrooms
 
 La modification demandée...
+
+Une autre modification depuis GitHub.
